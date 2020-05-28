@@ -1,4 +1,4 @@
-baseurl = "https://twoheartliu.github.io/"
+baseurl = "https://twoheart.cn/"
 title = "twoheart's blog"
 theme = "hugo-coder"
 languagecode = "zh-Hans"
@@ -11,7 +11,7 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "twoheart"
 
 [params]
     author = "twoheart liu"
